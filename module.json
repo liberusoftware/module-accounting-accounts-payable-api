@@ -3,7 +3,7 @@
   "name": "accounting-accounts-payable-api",
   "display_name": "Accounts Payable API",
   "description": "HTTP API for supplier payables.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\AccountsPayableApi\\AccountsPayableApiServiceProvider",
   "requires": {
